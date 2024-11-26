@@ -1,13 +1,11 @@
 # Hibernate Relations Project
+### Description:
+This project demonstrates the use of Hibernate in Java to manipulate a MySQL database. It focuses on managing a database with tables related by primary and foreign keys, representing clients and orders.
 
-### Descripción:
-Este proyecto demuestra el uso de **Hibernate** en Java para manipular una base de datos MySQL. Se centra en gestionar una base de datos con tablas relacionadas mediante claves primarias y foráneas, representando **clientes** y **pedidos**.
+### Features:
+CRUD (Create, Read, Update, Delete) operations for the Client entity.
+CRUD operations for the Order entity.
+Implementation of relationships between clients and orders.
 
-### Funcionalidades:
-- CRUD (Crear, Leer, Actualizar, Eliminar) para la entidad **Cliente**.
-- CRUD para la entidad **Pedido**.
-- Implementación de relaciones entre **clientes** y **pedidos**.
-
-### Proyecto en Proceso!
-Este proyecto está en proceso de finalización. Actualmente, las funcionalidades básicas de CRUD y las relaciones entre tablas están implementadas, pero aún queda añadir e implementar al proyecto completamente la tabla de pedidos y algunos toques para aumentar la complejidad del mismo. Seguimos!
-
+### Project in Progress!
+This project is still being completed. Currently, the basic CRUD functionalities and relationships between tables are implemented, but the Orders table still needs to be added and fully implemented, along with some additional tweaks to increase the complexity of the project. We’re moving forward!
