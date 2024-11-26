@@ -1,9 +1,9 @@
 # Hibernate Relations Project
 
-## Descripción:
+### Descripción:
 Este proyecto demuestra el uso de **Hibernate** en Java para manipular una base de datos MySQL. Se centra en gestionar una base de datos con tablas relacionadas mediante claves primarias y foráneas, representando **clientes** y **pedidos**.
 
-## Funcionalidades:
+### Funcionalidades:
 - CRUD (Crear, Leer, Actualizar, Eliminar) para la entidad **Cliente**.
 - CRUD para la entidad **Pedido**.
 - Implementación de relaciones entre **clientes** y **pedidos**.
